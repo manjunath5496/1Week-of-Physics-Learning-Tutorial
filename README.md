@@ -1743,6 +1743,8 @@ where:
  <li><a href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/Lectures/README.md">MIT Lecture Notes</a></li>
   <li><a href="1.md">Physics Portal </a></li>
  <li><a href="https://github.com/manjunath5496/Physics-Textbooks/blob/main/README.md">Physics Textbooks</a></li>
+ <li class="LC20lb DKV0Md"><a href="https://www.physicsclassroom.com/class">The Physics Classroom Tutorial</a></li>
+<li class="LC20lb DKV0Md"><a href="https://www.khanacademy.org/science/physics">Physics library | Science | Khan Academy</a></li>
 </ul>
 </br>
 <h2 id ="Books">Books </h2>
