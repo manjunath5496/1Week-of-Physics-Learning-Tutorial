@@ -12,7 +12,7 @@
   <li class="toclevel-1 tocsection-6"><a href="#Physicists"><span class="toctext">20 Physicists Who Revolutionised Our Understanding of The World</span></a></li>
  
    <li class="toclevel-1 tocsection-7"><a href="#publications"><span class="toctext">List of important publications in physics</span></a></li>
- 
+ <li class="toclevel-1 tocsection-8"><a href="#videos"><span class="toctext">Videos</span></a></li>
  
 </ul>
 </br>
@@ -2682,6 +2682,16 @@ Special Topics</a></li>
 <li><a href="https://github.com/manjunath5496/List-of-important-publications-in-physics/blob/master/ipp(75).pdf">Preliminary measurement of the cosmic background microwave spectrum by the Cosmic Background Explorer (COBE) satellite</a></li>
 </ul>
 </br>
+<h2 id="videos">Videos </h2>
 
-
-
+<ul>
+<li><a href="https://www.youtube.com/results?search_query=Classical+Mechanics">Classical Mechanics</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Statistical+Mechanics">Statistical Mechanics</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Electromagnetism">Electromagnetism</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Particle+Physics">Particle Physics</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Theory+of+Relativity">Theory of Relativity</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Quantum+Mechanics">Quantum Mechanics</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Quantum+Field+Theory">Quantum Field Theory</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Cosmology">Cosmology</a></li>
+</ul>
+</br>
