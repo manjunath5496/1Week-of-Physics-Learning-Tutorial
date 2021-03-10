@@ -2695,3 +2695,39 @@ Special Topics</a></li>
 <li><a href="https://www.youtube.com/results?search_query=Cosmology">Cosmology</a></li>
 </ul>
 </br>
+<h3 style="font-size: 20.8px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Quantum Physics (<span style="color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Prof. Graeme Ackland</span>)</h3>
+<h3 style="font-size: 20.8px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Lecture Notes</h3>
+<ul>
+    <li>Section &nbsp; 1: (<em>&nbsp;<a data-smd-id="s9" href="qp1.pdf">PDF&nbsp;</a></em>) Summary of things you should already know</li>
+    <li>Section 2: (<em>&nbsp;<a data-smd-id="s10" href="qp2.pdf">PDF&nbsp;</a></em>) Review: Time-Independent Non-degenerate Perturbation Theory</li>
+    <li>Section 3: (<em>&nbsp;<a data-smd-id="s11" href="qp3.pdf">PDF&nbsp;</a></em>) Dealing with Degeneracy</li>
+    <li>Section 4: (<em>&nbsp;<a data-smd-id="s12" href="qp4.pdf">PDF&nbsp;</a></em>) Degeneracy, Symmetry and Conservation Laws</li>
+    <li>Section 5: (<em>&nbsp;<a data-smd-id="s13" href="qp5.pdf">PDF&nbsp;</a></em>) Time--dependence</li>
+    <li>Section 6: (<em>&nbsp;<a data-smd-id="s14" href="qp6.pdf">PDF&nbsp;</a></em>) Two state systems</li>
+    <li>Section 7: (<em>&nbsp;<a data-smd-id="s15" href="qp7.pdf">PDF&nbsp;</a></em>) Hydrogen ion and Covalent Bonding</li>
+    <li>Section 8: (<em>&nbsp;<a data-smd-id="s16" href="qp8.pdf">PDF&nbsp;</a></em>) The Variational Principle</li>
+    <li>Section 9: (<em>&nbsp;<a data-smd-id="s17" href="qp9.pdf">PDF&nbsp;</a></em>) Indistinguishable Particles and Exchange</li>
+    <li>Section 10: (<em>&nbsp;<a data-smd-id="s18" href="qp10.pdf">PDF&nbsp;</a></em>) Self-consistent field theory</li>
+    <li>Section 11: (<em>&nbsp;<a data-smd-id="s19" href="qp11.pdf">PDF&nbsp;</a></em>) Fundamentals of Quantum Scattering Theory</li>
+    <li>Section 12: (<em>&nbsp;<a data-smd-id="s20" href="qp12.pdf">PDF&nbsp;</a></em>) Scattering in three dimensions</li>
+    <li>Section 13: (<em>&nbsp;<a data-smd-id="s21" href="qp13.pdf">PDF&nbsp;</a></em>) Further Concepts in Quantum Scattering Theory</li>
+    <li>Section 14: (<em>&nbsp;<a data-smd-id="s22" href="qp14.pdf">PDF&nbsp;</a></em>) Using Partial Waves</li>
+    <li>Section 15: (<em>&nbsp;<a data-smd-id="s23" href="qp15.pdf">PDF&nbsp;</a></em>) The quantum mechanics nobody really understands</li>
+    <li>For non-examinable interest, and of use in some optional courses, some fuller details about partial waves and Relativistic Quantum Mechanics. <em><a data-smd-id="s24" href="partialwave.pdf">Partial Waves&nbsp;</a><a data-smd-id="s25" href="rel1.pdf">Klein-Gordon;&nbsp;</a><a data-smd-id="s26" href="rel2.pdf">Dirac;&nbsp;</a><a data-smd-id="s27" href="rel3.pdf">More Dirac</a></em></li>
+    <li>Synopsis and revision guide: (<em>&nbsp;<a data-smd-id="s28" href="qpsyn.pdf">PDF&nbsp;</a></em>) Things to know in May</li>
+</ul>
+<h3 style="font-size: 20.8px; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Exercises</h3>
+<ul>
+    <li>Sheet 1: (<em>&nbsp;<a data-smd-id="s29" href="tutorial01.pdf">PDF&nbsp;</a></em>) Mainly revision</li>
+    <li>Sheet 2: (<em>&nbsp;<a data-smd-id="s30" href="tutorial02.pdf">PDF&nbsp;</a></em>) Perturbations</li>
+    <li>Sheet 3: (<em>&nbsp;<a data-smd-id="s31" href="tutorial03.pdf">PDF&nbsp;</a></em>) More Perturbations</li>
+    <li>Sheet 4: (<em>&nbsp;<a data-smd-id="s32" href="tutorial04.pdf">PDF&nbsp;</a></em>) Time Dependence</li>
+    <li>Sheet 5: (<em>&nbsp;<a data-smd-id="s33" href="tutorial05.pdf">PDF&nbsp;</a></em>) Variational Method</li>
+    <li>Sheet 6: (<em>&nbsp;<a data-smd-id="s34" href="tutorial06.pdf">PDF&nbsp;</a></em>) Time-Dependence and Pseudopotentials</li>
+    <li>Sheet 7: (<em>&nbsp;<a data-smd-id="s35" href="tutorial07.pdf">PDF&nbsp;</a></em>) Bonding and Identical Particles</li>
+    <li>Sheet 8: (<em>&nbsp;<a data-smd-id="s36" href="tutorial08.pdf">PDF&nbsp;</a></em>) Counting states</li>
+    <li>Sheet 9: (<em>&nbsp;<a data-smd-id="s37" href="tutorial09.pdf">PDF&nbsp;</a></em>) Scattering</li>
+    <li>Sheet 10: (<em>&nbsp;<a data-smd-id="s38" href="tutorial10.pdf">PDF&nbsp;</a></em>) Bell&apos;s Theorem and Bedtime Reading</li>
+</ul>
+<h3 style="font-size: 20.8px;">Additional Exercises</h3>
+<p>(<em>&nbsp;<a data-smd-id="s39" href="qpex.pdf">PDF&nbsp;</a></em>)</p>
