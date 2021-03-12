@@ -2235,7 +2235,34 @@ Fluid Mechanics for the Natural Sciences</a></li>
 Special Topics</a></li> 
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(1).pdf" style="text-decoration:none;">Experimental physics</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(2).pdf" style="text-decoration:none;">Handbook of Formulae and Physical Constants</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(3).pdf" style="text-decoration:none;">Lecture I: Basic Physics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(4).pdf" style="text-decoration:none;">Mathematical Physics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(5).pdf" style="text-decoration:none;">Lecture Notes for College Physics I</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(6).pdf" style="text-decoration:none;">General Physics I: Mechanics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(7).pdf" style="text-decoration:none;">Physics: A Brief Summary</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(8).pdf" style="text-decoration:none;">Physics For Beginners: 
+A Novice's Guide To The Mysteries Of The Universe </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(9).pdf" style="text-decoration:none;">An Introduction To Physics [45 video lectures]</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(10).pdf" style="text-decoration:none;">Modern Physics Notes</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(11).pdf" style="text-decoration:none;">A Brief Introduction To Physics For Mathematicians</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(12).pdf" style="text-decoration:none;">Physics Now:
+Reviews by leading physicists in the International Union of Pure and Applied Physics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(13).pdf" style="text-decoration:none;">Fundamental Physics Notes</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(14).pdf" style="text-decoration:none;">Motion and Mass:
+First Steps into Physics</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(15).pdf" style="text-decoration:none;">Physics
+Laboratory Manual For Undergraduates</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/1Week-of-Physics-Learning-Tutorial/blob/master/ch(16).pdf" style="text-decoration:none;">Physics Laboratory Manual (312)</a></li>
 
 
 
